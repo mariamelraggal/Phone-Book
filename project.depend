@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1577021924 source:c:\users\yosf\desktop\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+
+1576681462 source:h:\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577174131 source:c:\users\yosf\desktop\project\filee.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577021595 c:\users\yosf\desktop\project\file.h
+
+1577174131 source:e:\phonebook project\filee.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577021595 e:\phonebook project\file.h
+
+1577021924 source:e:\phonebook project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+
+1577174131 source:c:\users\yosf\desktop\phone book\filee.c
+	"file.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1577021595 c:\users\yosf\desktop\phone book\file.h
+
+1577021924 source:c:\users\yosf\desktop\phone book\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"file.h"
+
